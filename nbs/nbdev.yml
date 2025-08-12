@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "taller_nbdev_2025"
+  site-url: "https://msalazarcgeo.github.io/taller_nbdev_2025"
+  description: "ejemplo sencillo  en el uso de nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/msalazarcgeo/taller_nbdev_2025"
