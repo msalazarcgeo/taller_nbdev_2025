@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\nVamos hacer una par de funciones que muestren omo se aplican las osas en nbdev\nLa oprimera es una función que nos da un saludo.\n\nsource\n\n\nsaludo\n\n saludo ()\n\nImprime Hola\n\nsaludo()\n\nHola!\n\n\nLa segunda es una función que nos da un nombre\n\nsource\n\n\nsaludo_a\n\n saludo_a (to)\n\nImprime hola a un nombre\n\nsaludo_a('Homero')\n\nHola! Homero\nEspero que te encuentres bien",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "taller_nbdev_2025",
+    "section": "",
+    "text": "Este archivo sirve para la creaci’on de la pagina inicial del repositorio",
+    "crumbs": [
+      "taller_nbdev_2025"
+    ]
+  },
+  {
+    "objectID": "index.html#guia-para-los-cambios",
+    "href": "index.html#guia-para-los-cambios",
+    "title": "taller_nbdev_2025",
+    "section": "Guia para los cambios",
+    "text": "Guia para los cambios\n\nInstall taller_nbdev_2025 in Development mode\n# make sure taller_nbdev_2025 package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to taller_nbdev_2025\n$ nbdev_prepare",
+    "crumbs": [
+      "taller_nbdev_2025"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "taller_nbdev_2025",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/msalazarcgeo/taller_nbdev_2025.git\nor from conda\n$ conda install -c msalazarcgeo taller_nbdev_2025\nor from pypi\n$ pip install taller_nbdev_2025\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "taller_nbdev_2025"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "taller_nbdev_2025",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "taller_nbdev_2025"
+    ]
+  }
+]
