@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://msalazarcgeo.github.io',
                 'git_url': 'https://github.com/msalazarcgeo/taller_nbdev_2025',
                 'lib_path': 'taller_nbdev_2025'},
-  'syms': {'taller_nbdev_2025.core': {'taller_nbdev_2025.core.foo': ('core.html#foo', 'taller_nbdev_2025/core.py')}}}
+  'syms': { 'taller_nbdev_2025.core': { 'taller_nbdev_2025.core.foo': ('core.html#foo', 'taller_nbdev_2025/core.py'),
+                                        'taller_nbdev_2025.core.saludo': ('core.html#saludo', 'taller_nbdev_2025/core.py'),
+                                        'taller_nbdev_2025.core.saludo_a': ('core.html#saludo_a', 'taller_nbdev_2025/core.py')}}}
